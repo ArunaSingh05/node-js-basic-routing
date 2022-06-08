@@ -1,0 +1,7 @@
+{
+  "compilerOption": {
+    "noImplicitAny": false,
+    "baseUrl": ".",
+    "rootDir": "."
+  }
+}
